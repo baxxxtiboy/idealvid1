@@ -1,0 +1,1258 @@
+[
+ {
+  "name": "OB 062",
+  "size": "356 × 1066 mm",
+  "price": 35,
+  "image": "ob-062.webp",
+  "page": 1,
+  "photo": false
+ },
+ {
+  "name": "Rb 344",
+  "size": "403 × 974 mm",
+  "price": 31,
+  "image": "rb-344.webp",
+  "page": 1,
+  "photo": false
+ },
+ {
+  "name": "Db 395",
+  "size": "352 × 996 mm",
+  "price": 32,
+  "image": "db-395.webp",
+  "page": 1,
+  "photo": false
+ },
+ {
+  "name": "Db 336",
+  "size": "302 × 957 mm",
+  "price": 21,
+  "image": "db-336.webp",
+  "page": 1,
+  "photo": false
+ },
+ {
+  "name": "Db 399",
+  "size": "366 × 860 mm",
+  "price": 31,
+  "image": "db-399.webp",
+  "page": 1,
+  "photo": false
+ },
+ {
+  "name": "Ve 503",
+  "size": "280 × 800 mm",
+  "price": 21,
+  "image": "ve-503.webp",
+  "page": 1,
+  "photo": false
+ },
+ {
+  "name": "Db 403G",
+  "size": "340 × 860 mm",
+  "price": 22,
+  "image": "db-403g.webp",
+  "page": 2,
+  "photo": false
+ },
+ {
+  "name": "Ch 176",
+  "size": "334 × 806 mm",
+  "price": 20,
+  "image": "ch-176.webp",
+  "page": 2,
+  "photo": false
+ },
+ {
+  "name": "Db 390",
+  "size": "223 × 650 mm",
+  "price": 17,
+  "image": "db-390.webp",
+  "page": 2,
+  "photo": false
+ },
+ {
+  "name": "Db 313",
+  "size": "272 × 770 mm",
+  "price": 18,
+  "image": "db-313.webp",
+  "page": 2,
+  "photo": false
+ },
+ {
+  "name": "Oyr 02",
+  "size": "241 × 860 mm",
+  "price": 18,
+  "image": "oyr-02.webp",
+  "page": 2,
+  "photo": false
+ },
+ {
+  "name": "Oyr 01",
+  "size": "290 × 720 mm",
+  "price": 15.5,
+  "image": "oyr-01.webp",
+  "page": 2,
+  "photo": false
+ },
+ {
+  "name": "Rb 281",
+  "size": "350 × 250 mm",
+  "price": 6,
+  "image": "rb-281.webp",
+  "page": 2,
+  "photo": false
+ },
+ {
+  "name": "Rb 854",
+  "size": "365 × 295 mm",
+  "price": 7,
+  "image": "rb-854.webp",
+  "page": 2,
+  "photo": false
+ },
+ {
+  "name": "Rb 213",
+  "size": "420 × 850 mm",
+  "price": 19,
+  "image": "rb-213.webp",
+  "page": 3,
+  "photo": false
+ },
+ {
+  "name": "Oyh 36.C",
+  "size": "286 × 726 mm",
+  "price": 17,
+  "image": "oyh-36-c.webp",
+  "page": 3,
+  "photo": false
+ },
+ {
+  "name": "Oyr 024",
+  "size": "235 × 813 mm",
+  "price": 14.5,
+  "image": "oyr-024.webp",
+  "page": 3,
+  "photo": false
+ },
+ {
+  "name": "Db 339",
+  "size": "257 × 640 mm",
+  "price": 16,
+  "image": "db-339.webp",
+  "page": 3,
+  "photo": false
+ },
+ {
+  "name": "Db 243",
+  "size": "334 × 806 mm",
+  "price": 13.5,
+  "image": "db-243.webp",
+  "page": 3,
+  "photo": false
+ },
+ {
+  "name": "Db 67",
+  "size": "252 × 551 mm",
+  "price": 7.5,
+  "image": "db-67.webp",
+  "page": 3,
+  "photo": false
+ },
+ {
+  "name": "Db 181",
+  "size": "283 × 522 mm",
+  "price": 10,
+  "image": "db-181.webp",
+  "page": 3,
+  "photo": false
+ },
+ {
+  "name": "Db 97",
+  "size": "240 × 582 mm",
+  "price": 10,
+  "image": "db-97.webp",
+  "page": 3,
+  "photo": false
+ },
+ {
+  "name": "Oyr 043",
+  "size": "350 × 233 mm",
+  "price": 5.5,
+  "image": "oyr-043.webp",
+  "page": 3,
+  "photo": false
+ },
+ {
+  "name": "Ob 067",
+  "size": "317 × 228 mm",
+  "price": 7.5,
+  "image": "ob-067.webp",
+  "page": 3,
+  "photo": false
+ },
+ {
+  "name": "Rb 1008",
+  "size": "300 × 778 mm",
+  "price": 12,
+  "image": "rb-1008.webp",
+  "page": 4,
+  "photo": false
+ },
+ {
+  "name": "Rb 1011",
+  "size": "200 × 550 mm",
+  "price": 10,
+  "image": "rb-1011.webp",
+  "page": 4,
+  "photo": false
+ },
+ {
+  "name": "Rb 324",
+  "size": "290 × 596 mm",
+  "price": 13.5,
+  "image": "rb-324.webp",
+  "page": 4,
+  "photo": false
+ },
+ {
+  "name": "Db 337",
+  "size": "228 × 736 mm",
+  "price": 14.5,
+  "image": "db-337.webp",
+  "page": 4,
+  "photo": false
+ },
+ {
+  "name": "Oyr 011",
+  "size": "250 × 600 mm",
+  "price": 13.5,
+  "image": "oyr-011.webp",
+  "page": 4,
+  "photo": false
+ },
+ {
+  "name": "Db 95",
+  "size": "358 × 571 mm",
+  "price": 9.5,
+  "image": "db-95.webp",
+  "page": 4,
+  "photo": false
+ },
+ {
+  "name": "Db 101",
+  "size": "352 × 533 mm",
+  "price": 11.5,
+  "image": "db-101.webp",
+  "page": 4,
+  "photo": false
+ },
+ {
+  "name": "Db 340",
+  "size": "212 × 624 mm",
+  "price": 12.5,
+  "image": "db-340.webp",
+  "page": 4,
+  "photo": false
+ },
+ {
+  "name": "Db 349",
+  "size": "631 × 320 mm",
+  "price": 13.5,
+  "image": "db-349.webp",
+  "page": 4,
+  "photo": false
+ },
+ {
+  "name": "Db 359",
+  "size": "864 × 320 mm",
+  "price": 13.5,
+  "image": "db-359.webp",
+  "page": 4,
+  "photo": false
+ },
+ {
+  "name": "Db 47",
+  "size": "395 × 770 mm",
+  "price": 13.5,
+  "image": "db-47.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Db 286",
+  "size": "225 × 450 mm",
+  "price": 7.5,
+  "image": "db-286.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Ve 501",
+  "size": "130 × 550 mm",
+  "price": 12.5,
+  "image": "ve-501.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Ve 6.3",
+  "size": "184 × 521 mm",
+  "price": 11,
+  "image": "ve-6-3.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Rb 394",
+  "size": "165 × 522 mm",
+  "price": 10,
+  "image": "rb-394.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Ve 507BIG",
+  "size": "142 × 750 mm",
+  "price": 12,
+  "image": "ve-507big.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Ve 507mini",
+  "size": "112 × 647 mm",
+  "price": 11,
+  "image": "ve-507mini.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Rb 1002",
+  "size": "148 × 446 mm",
+  "price": 8,
+  "image": "rb-1002.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Db 95,2",
+  "size": "128 × 571 mm",
+  "price": 7.2,
+  "image": "db-95-2.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Oh 877",
+  "size": "120 × 500 mm",
+  "price": 8,
+  "image": "oh-877.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Db 171",
+  "size": "125 × 519 mm",
+  "price": 6.5,
+  "image": "db-171.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Db 300",
+  "size": "150 × 522 mm",
+  "price": 6.5,
+  "image": "db-300.webp",
+  "page": 5,
+  "photo": false
+ },
+ {
+  "name": "Db 166",
+  "size": "112 × 645 mm",
+  "price": 6.5,
+  "image": "db-166.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 314",
+  "size": "74 × 640 mm",
+  "price": 6.5,
+  "image": "db-314.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 316",
+  "size": "112 × 610 mm",
+  "price": 7,
+  "image": "db-316.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Rb 394.2",
+  "size": "83 × 522 mm",
+  "price": 7.5,
+  "image": "rb-394-2.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 245",
+  "size": "135 × 830 mm",
+  "price": 10,
+  "image": "db-245.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 246",
+  "size": "135 × 830 mm",
+  "price": 10,
+  "image": "db-246.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 303",
+  "size": "114 × 700 mm",
+  "price": 8,
+  "image": "db-303.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 304",
+  "size": "114 × 700 mm",
+  "price": 8,
+  "image": "db-304.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 81",
+  "size": "280 × 153 mm",
+  "price": 4.5,
+  "image": "db-81.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 165",
+  "size": "111 × 395 mm",
+  "price": 3.5,
+  "image": "db-165.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 330",
+  "size": "95 × 283 mm",
+  "price": 3.5,
+  "image": "db-330.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 329",
+  "size": "129 × 378 mm",
+  "price": 4.5,
+  "image": "db-329.webp",
+  "page": 6,
+  "photo": false
+ },
+ {
+  "name": "Db 341,2",
+  "size": "141 × 813 mm",
+  "price": 8,
+  "image": "db-341-2.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 263",
+  "size": "51 × 467 mm",
+  "price": 3.5,
+  "image": "db-263.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 305",
+  "size": "43 × 394 mm",
+  "price": 3,
+  "image": "db-305.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 340.1",
+  "size": "340 × 70 mm",
+  "price": 3,
+  "image": "db-340-1.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 193",
+  "size": "230 × 330 mm",
+  "price": 4.5,
+  "image": "db-193.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Ch 180",
+  "size": "350 × 350 mm",
+  "price": 14,
+  "image": "ch-180.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Roc 961",
+  "size": "354 × 354 mm",
+  "price": 12,
+  "image": "roc-961.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 109",
+  "size": "161 × 161 mm",
+  "price": 3.5,
+  "image": "db-109.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 236",
+  "size": "115 × 152 mm",
+  "price": 2.2,
+  "image": "db-236.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 237",
+  "size": "115 × 152 mm",
+  "price": 2.2,
+  "image": "db-237.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 177",
+  "size": "113 × 113 mm",
+  "price": 2.2,
+  "image": "db-177.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 68",
+  "size": "262 × 190 mm",
+  "price": 4,
+  "image": "db-68.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 69",
+  "size": "262 × 190 mm",
+  "price": 4,
+  "image": "db-69.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Db 129",
+  "size": "340 × 340 mm",
+  "price": 6,
+  "image": "db-129.webp",
+  "page": 7,
+  "photo": false
+ },
+ {
+  "name": "Rb 338",
+  "size": "418 × 198 mm",
+  "price": 8,
+  "image": "rb-338.webp",
+  "page": 8,
+  "photo": false
+ },
+ {
+  "name": "Rb 286",
+  "size": "270 × 260 mm",
+  "price": 5.5,
+  "image": "rb-286.webp",
+  "page": 8,
+  "photo": false
+ },
+ {
+  "name": "Rb 70.1",
+  "size": "350 × 160 mm",
+  "price": 5.5,
+  "image": "rb-70-1.webp",
+  "page": 8,
+  "photo": false
+ },
+ {
+  "name": "Rb 381",
+  "size": "425 × 165 mm",
+  "price": 5,
+  "image": "rb-381.webp",
+  "page": 8,
+  "photo": false
+ },
+ {
+  "name": "Db 197",
+  "size": "424 × 171 mm",
+  "price": 6,
+  "image": "db-197.webp",
+  "page": 8,
+  "photo": false
+ },
+ {
+  "name": "Vb 16",
+  "size": "324 × 197 mm",
+  "price": 5.5,
+  "image": "vb-16.webp",
+  "page": 8,
+  "photo": false
+ },
+ {
+  "name": "Db 05",
+  "size": "198 × 295 mm",
+  "price": 5,
+  "image": "db-05.webp",
+  "page": 8,
+  "photo": false
+ },
+ {
+  "name": "Db 62",
+  "size": "150 × 226 mm",
+  "price": 4,
+  "image": "db-62.webp",
+  "page": 8,
+  "photo": false
+ },
+ {
+  "name": "Db 50",
+  "size": "130 × 187 mm",
+  "price": 3,
+  "image": "db-50.webp",
+  "page": 8,
+  "photo": false
+ },
+ {
+  "name": "Db 198",
+  "size": "180 × 225 mm",
+  "price": 4,
+  "image": "db-198.webp",
+  "page": 8,
+  "photo": false
+ },
+ {
+  "name": "Db 249",
+  "size": "265 × 155 mm",
+  "price": 4,
+  "image": "db-249.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 80",
+  "size": "202 × 179 mm",
+  "price": 2.7,
+  "image": "db-80.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 40",
+  "size": "196 × 235 mm",
+  "price": 3,
+  "image": "db-40.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 367",
+  "size": "248 × 99 mm",
+  "price": 3.2,
+  "image": "db-367.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 293",
+  "size": "195 × 168 mm",
+  "price": 3.2,
+  "image": "db-293.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 71",
+  "size": "192 × 176 mm",
+  "price": 3.5,
+  "image": "db-71.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 137",
+  "size": "160 × 226 mm",
+  "price": 3.5,
+  "image": "db-137.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 76",
+  "size": "264 × 154 mm",
+  "price": 3.2,
+  "image": "db-76.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Rb 49.1",
+  "size": "145 × 180 mm",
+  "price": 3.2,
+  "image": "rb-49-1.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 235",
+  "size": "124 × 155 mm",
+  "price": 2.2,
+  "image": "db-235.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 284",
+  "size": "135 × 155 mm",
+  "price": 2.3,
+  "image": "db-284.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 43",
+  "size": "172 × 132 mm",
+  "price": 2.2,
+  "image": "db-43.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 196",
+  "size": "126 × 167 mm",
+  "price": 2.2,
+  "image": "db-196.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Db 144",
+  "size": "114 × 95 mm",
+  "price": 1.8,
+  "image": "db-144.webp",
+  "page": 9,
+  "photo": false
+ },
+ {
+  "name": "Rb 1281",
+  "size": "47 × 145 mm",
+  "price": 1,
+  "image": "rb-1281.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 11",
+  "size": "102 × 152 mm",
+  "price": 0.9,
+  "image": "db-11.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 96",
+  "size": "76 × 127 mm",
+  "price": 1.3,
+  "image": "db-96.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 84",
+  "size": "76 × 127 mm",
+  "price": 1.3,
+  "image": "db-84.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 58",
+  "size": "51 × 51 mm",
+  "price": 0.7,
+  "image": "db-58.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 302",
+  "size": "37 × 37 mm",
+  "price": 0.6,
+  "image": "db-302.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Vb 1366",
+  "size": "50 × 50 mm",
+  "price": 1.3,
+  "image": "vb-1366.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Vb 1365",
+  "size": "30 × 30 mm",
+  "price": 0.9,
+  "image": "vb-1365.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Ve 512",
+  "size": "150 × 150 mm",
+  "price": 2,
+  "image": "ve-512.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Rb 90.1",
+  "size": "180 × 135 mm",
+  "price": 2.2,
+  "image": "rb-90-1.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 17",
+  "size": "76 × 127 mm",
+  "price": 0.6,
+  "image": "db-17.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 16",
+  "size": "51 × 152 mm",
+  "price": 0.6,
+  "image": "db-16.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 15",
+  "size": "51 × 102 mm",
+  "price": 0.6,
+  "image": "db-15.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 172",
+  "size": "125 × 125 mm",
+  "price": 1.1,
+  "image": "db-172.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Rb 334.8",
+  "size": "100 × 100 mm",
+  "price": 1,
+  "image": "rb-334-8.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 45",
+  "size": "70 × 70 mm",
+  "price": 0.8,
+  "image": "db-45.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 229",
+  "size": "80 × 80 mm",
+  "price": 0.8,
+  "image": "db-229.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 108",
+  "size": "60 × 60 mm",
+  "price": 0.6,
+  "image": "db-108.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 167",
+  "size": "112 × 80 mm",
+  "price": 0.9,
+  "image": "db-167.webp",
+  "page": 10,
+  "photo": false
+ },
+ {
+  "name": "Db 224",
+  "size": "38 × 203 mm",
+  "price": 1.3,
+  "image": "db-224.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 252",
+  "size": "38 × 152 mm",
+  "price": 1.2,
+  "image": "db-252.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 223",
+  "size": "38 × 127 mm",
+  "price": 0.9,
+  "image": "db-223.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 222",
+  "size": "38 × 101 mm",
+  "price": 0.9,
+  "image": "db-222.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 221",
+  "size": "38 × 76 mm",
+  "price": 0.8,
+  "image": "db-221.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 220",
+  "size": "38 × 51 mm",
+  "price": 0.8,
+  "image": "db-220.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 219",
+  "size": "38 × 38 mm",
+  "price": 0.7,
+  "image": "db-219.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 24",
+  "size": "25 × 25 mm",
+  "price": 0.5,
+  "image": "db-24.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 25",
+  "size": "51 × 203 mm",
+  "price": 1.3,
+  "image": "db-25.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 22",
+  "size": "51 × 127 mm",
+  "price": 1.1,
+  "image": "db-22.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 21",
+  "size": "51 × 102 mm",
+  "price": 1,
+  "image": "db-21.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 18",
+  "size": "51 × 51 mm",
+  "price": 0.8,
+  "image": "db-18.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 19",
+  "size": "76 × 76 mm",
+  "price": 0.9,
+  "image": "db-19.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 20",
+  "size": "102 × 102 mm",
+  "price": 0.9,
+  "image": "db-20.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 46",
+  "size": "100 × 235 mm",
+  "price": 1.4,
+  "image": "db-46.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 105",
+  "size": "105 × 235 mm",
+  "price": 1.8,
+  "image": "db-105.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 106",
+  "size": "75 × 145 mm",
+  "price": 0.9,
+  "image": "db-106.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 104",
+  "size": "75 × 145 mm",
+  "price": 1.4,
+  "image": "db-104.webp",
+  "page": 11,
+  "photo": false
+ },
+ {
+  "name": "Db 317",
+  "size": "90 × 145 mm",
+  "price": 1.1,
+  "image": "db-317.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 76.1",
+  "size": "58 × 61 mm",
+  "price": 0.6,
+  "image": "db-76-1.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 324",
+  "size": "27 × 112 mm",
+  "price": 0.9,
+  "image": "db-324.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 76.2",
+  "size": "25 × 85 mm",
+  "price": 0.8,
+  "image": "db-76-2.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 318",
+  "size": "40 × 112 mm",
+  "price": 0.8,
+  "image": "db-318.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 323",
+  "size": "54 × 82 mm",
+  "price": 0.9,
+  "image": "db-323.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 325",
+  "size": "54 × 82 mm",
+  "price": 0.9,
+  "image": "db-325.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 77",
+  "size": "39 × 55 mm",
+  "price": 0.6,
+  "image": "db-77.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 78",
+  "size": "39 × 55 mm",
+  "price": 0.6,
+  "image": "db-78.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Rb 249",
+  "size": "75 × 88 mm",
+  "price": 0.9,
+  "image": "rb-249.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 74",
+  "size": "50 × 60 mm",
+  "price": 0.7,
+  "image": "db-74.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 88",
+  "size": "35 × 127 mm",
+  "price": 0.9,
+  "image": "db-88.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 89",
+  "size": "35 × 127 mm",
+  "price": 0.9,
+  "image": "db-89.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 320",
+  "size": "132 × 51 mm",
+  "price": 0.9,
+  "image": "db-320.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Db 322",
+  "size": "132 × 51 mm",
+  "price": 0.9,
+  "image": "db-322.webp",
+  "page": 12,
+  "photo": false
+ },
+ {
+  "name": "Нож и лезвия",
+  "size": "",
+  "price": 9,
+  "image": "pichoq-olfa.webp",
+  "page": 13,
+  "photo": true
+ },
+ {
+  "name": "Лезвия",
+  "size": "",
+  "price": 9,
+  "image": "lezviya-olfa-kb.webp",
+  "page": 13,
+  "photo": true
+ },
+ {
+  "name": "RegaLead прижим",
+  "size": "",
+  "price": 3,
+  "image": "regalead-prijim.webp",
+  "page": 13,
+  "photo": true
+ },
+ {
+  "name": "Уф. Лампа (kichik)",
+  "size": "",
+  "price": 9,
+  "image": "uf-lampa-kichik.webp",
+  "page": 13,
+  "photo": true
+ },
+ {
+  "name": "Уф. клей 250гр",
+  "size": "",
+  "price": 6.5,
+  "image": "uf-yelim-250.webp",
+  "page": 14,
+  "photo": true
+ },
+ {
+  "name": "Уф. Лампа (katta)",
+  "size": "",
+  "price": 18,
+  "image": "uf-lampa-katta.webp",
+  "page": 14,
+  "photo": true
+ },
+ {
+  "name": "Ролик 50мм",
+  "size": "",
+  "price": 27,
+  "image": "rolik-50.webp",
+  "page": 15,
+  "photo": true
+ },
+ {
+  "name": "Ролик 75мм (qizil)",
+  "size": "",
+  "price": 27,
+  "image": "rolik-75.webp",
+  "page": 15,
+  "photo": true
+ },
+ {
+  "name": "Ролик 75мм (qora, professional)",
+  "size": "",
+  "price": 30,
+  "image": "rolik-75-pro.webp",
+  "page": 15,
+  "photo": true
+ }
+]

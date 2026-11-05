@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <meta name="theme-color" content="#07070a">
+  <title>GLASS-IDEAL_VITRAJ</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2307070a'/%3E%3Cpath d='M18 14h28l10 16-24 22L8 30z' fill='none' stroke='%23d4af37' stroke-width='3' stroke-linejoin='round'/%3E%3Cpath d='M8 30h48M26 14l6 16 0 22M38 14l-6 16' fill='none' stroke='%23d4af37' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <!-- Logo (gradientlar shu yerda) -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#fbeaa6"/><stop offset=".45" stop-color="#d4af37"/><stop offset="1" stop-color="#8f6b12"/>
+      </linearGradient>
+      <symbol id="logo-gem" viewBox="0 0 120 100">
+        <path d="M30 6h60l28 32-58 58L2 38z" fill="url(#gold)" fill-opacity=".13" stroke="url(#gold)" stroke-width="3.2" stroke-linejoin="round"/>
+        <path d="M2 38h116M30 6l14 32 16 58M90 6L76 38 60 96M60 6L44 38M60 6l16 32" fill="none" stroke="url(#gold)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+      </symbol>
+    </defs>
+  </svg>
+
+  <!-- Yuklanish ekrani -->
+  <div id="splash" aria-live="polite">
+    <div class="sp-glow"></div>
+    <i class="sp-star s1"></i><i class="sp-star s2"></i><i class="sp-star s3"></i><i class="sp-star s4"></i><i class="sp-star s5"></i>
+    <div class="sp-center">
+      <svg class="sp-gem" viewBox="0 0 120 100">
+        <path class="sp-draw" pathLength="1" d="M30 6h60l28 32-58 58L2 38z" fill="none" stroke="url(#gold)" stroke-width="2.6" stroke-linejoin="round"/>
+        <path class="sp-draw d2" pathLength="1" d="M2 38h116M30 6l14 32 16 58M90 6L76 38 60 96M60 6L44 38M60 6l16 32" fill="none" stroke="url(#gold)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+        <path class="sp-fill" d="M30 6h60l28 32-58 58L2 38z" fill="url(#gold)"/>
+      </svg>
+      <div class="sp-brand">GLASS<span>-</span>IDEAL</div>
+      <div class="sp-sub">V I T R A J</div>
+      <div class="sp-bar"><i></i></div>
+      <div class="sp-hint">Yuklanmoqda…</div>
+    </div>
+  </div>
+
+  <div id="app"></div>
+  <div id="toasts"></div>
+
+  <script src="/js/icons.js"></script>
+  <script src="/js/core.js"></script>
+  <script src="/js/shop.js"></script>
+  <script src="/js/account.js"></script>
+  <script src="/js/admin.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>
