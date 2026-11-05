@@ -13,7 +13,8 @@ const esc = (s) =>
   );
 
 function createBot(h) {
-  const token = process.env.BOT_TOKEN || " ";
+  const token =
+    process.env.BOT_TOKEN || "9201034746:AAGxlgnzQhV_dMW-pzpG5hXyu2PTG_IiFTc";
   const enabled = !!token;
   const api =
     (process.env.TG_API_BASE || "https://api.telegram.org") +

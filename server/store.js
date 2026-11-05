@@ -1,5 +1,4 @@
 "use strict";
-
 /**
  * Oddiy hujjat-bazasi: hamma narsa xotirada turadi, o'zgarish bo'lsa diskka / MongoDB'ga yoziladi.
  *  - MONGODB_URI berilmasa  -> data/db/*.json fayllari (lokal ishlash uchun)
