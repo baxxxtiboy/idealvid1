@@ -1,0 +1,28 @@
+[
+  {
+    "id": "main",
+    "botName": "IDEAL_VIT",
+    "seq": 1000,
+    "usdRate": 12500,
+    "adminChat": null,
+    "linkCode": null,
+    "pay": {
+      "payme": { "card": "", "holder": "", "link": "" },
+      "click": { "card": "", "holder": "", "link": "" },
+      "paynet": { "card": "", "holder": "", "link": "" }
+    },
+    "contact": {
+      "phone": "+998 98 307 14 14",
+      "whatsapp": "998983071414",
+      "telegram": "",
+      "instagram": ""
+    },
+    "debt": {
+      "percent": 30,
+      "days": 14,
+      "max": 2,
+      "text": "Ha, roziman: agar 1–2 hafta ichida qarzimni qaytara olmasam, Tashenov Islomboy Sabirbayevich 102 ga telefon qilishiga roziman."
+    },
+    "secret": "f22fb3492d1cc21f90cc403feb5b2adf0d1b87e3235505aeb80d786e53d606f9"
+  }
+]
