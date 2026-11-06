@@ -103,14 +103,10 @@ class MongoBackend {
     const { id, ...rest } = doc;
     return this.db
       .collection(col)
-      .replaceOne({ _id: id }, rest, { upsert: true })
-      .catch((e) => console.error("mongo:", e.message));
+      .replaceOne({ _id: id }, rest, { upsert: true });
   }
   remove(col, id) {
-    return this.db
-      .collection(col)
-      .deleteOne({ _id: id })
-      .catch((e) => console.error("mongo:", e.message));
+    return this.db.collection(col).deleteOne({ _id: id });
   }
   async saveFile(id, buf, mime) {
     await this.db
@@ -165,13 +161,28 @@ class Store {
     return this.m[c].get(String(id));
   }
   async put(c, doc) {
-    this.m[c].set(String(doc.id), doc);
-    await this.be.upsert(c, doc, () => this.list(c));
+    const id = String(doc.id);
+    const previous = this.m[c].get(id);
+    this.m[c].set(id, doc);
+    try {
+      await this.be.upsert(c, doc, () => this.list(c));
+    } catch (error) {
+      if (previous === undefined) this.m[c].delete(id);
+      else this.m[c].set(id, previous);
+      throw error;
+    }
     return doc;
   }
   async del(c, id) {
-    this.m[c].delete(String(id));
-    await this.be.remove(c, String(id), () => this.list(c));
+    const key = String(id);
+    const previous = this.m[c].get(key);
+    this.m[c].delete(key);
+    try {
+      await this.be.remove(c, key, () => this.list(c));
+    } catch (error) {
+      if (previous !== undefined) this.m[c].set(key, previous);
+      throw error;
+    }
   }
   saveFile(id, buf, mime) {
     return this.be.saveFile(id, buf, mime);
