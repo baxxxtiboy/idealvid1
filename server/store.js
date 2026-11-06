@@ -1,8 +1,8 @@
 "use strict";
 /**
- * Oddiy hujjat-bazasi: hamma narsa xotirada turadi, o'zgarish bo'lsa diskka / MongoDB'ga yoziladi.
- *  - MONGODB_URI berilmasa  -> data/db/*.json fayllari (lokal ishlash uchun)
- *  - MONGODB_URI berilsa    -> MongoDB Atlas (Render bepul tarifida ma'lumot yo'qolmasligi uchun)
+ * Oddiy hujjat-bazasi: hamma narsa xotirada turadi, o'zgarish bo'lsa diskka / DB'ga yoziladi.
+ *  - DB_URI berilmasa  -> data/db/*.json fayllari (lokal ishlash uchun)
+ *  - DB_URI berilsa    -> DB Atlas (Render bepul tarifida ma'lumot yo'qolmasligi uchun)
  */
 const fs = require("fs");
 const path = require("path");
@@ -83,15 +83,15 @@ class FileBackend {
   }
 }
 
-class MongoBackend {
+class Backend {
   constructor(uri, dbName) {
     this.uri = uri;
     this.dbName = dbName || "glass_ideal_vitraj";
   }
   async init() {
-    const { MongoClient, Binary } = require("mongodb");
+    const { Client, Binary } = require("db");
     this.Binary = Binary;
-    this.client = new MongoClient(this.uri);
+    this.client = new Client(this.uri);
     await this.client.connect();
     this.db = this.client.db(this.dbName);
   }
@@ -138,17 +138,17 @@ class Store {
     COLS.forEach((c) => (this.m[c] = new Map()));
   }
   async init() {
-    const uri = process.env.MONGODB_URI;
+    const uri = process.env.DB_URI;
     if (uri) {
-      this.be = new MongoBackend(uri, process.env.MONGODB_DB);
+      this.be = new Backend(uri, process.env.DB_DB);
       await this.be.init();
-      console.log("Baza: MongoDB");
+      console.log("Baza: DB");
     } else {
       this.be = new FileBackend(
         process.env.DATA_DIR || path.join(__dirname, "..", "data", "db"),
       );
       console.log(
-        "Baza: fayl (data/db). Render'da MONGODB_URI qo'shing, aks holda qayta ishga tushganda ma'lumot yo'qoladi.",
+        "Baza: fayl (data/db). Render'da DB_URI qo'shing, aks holda qayta ishga tushganda ma'lumot yo'qoladi.",
       );
     }
     for (const c of COLS)
