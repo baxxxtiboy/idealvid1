@@ -61,4 +61,3 @@ server/store.js   — baza (lokal fayl yoki MongoDB)
 server/seed/      — katalog ma'lumotlari (nom, o'lcham, narx)
 public/           — veb-ilova (index.html, css/, js/, img/)
 ```
-# idealvid1
